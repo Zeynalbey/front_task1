@@ -1,0 +1,329 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.navbar1 a {
+    
+    font-size: 29px;
+    font-style: oblique;
+    color: #fed136;
+    text-decoration: none;
+}
+
+.navbar1{
+    padding: 16px 0;
+    float: left;
+    padding-left: 4rem;
+    
+
+}
+
+.navbar2 {
+
+    padding: 20px 0;
+    float: right;
+    font-size: 18px;
+    padding-right: 4rem;
+    
+}
+.navbar2 a{
+    color: antiquewhite;
+    padding-right: 15px;
+    text-decoration: none;
+
+
+}
+.navbar{
+
+background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg);
+background-position: center;
+background-size: cover;
+height: 714px;
+width: 100%;
+background-repeat: no-repeat;
+
+}
+
+.navbar3 .first {
+    text-align: center;
+    color: #fff;
+}
+
+.navbar3 .second{
+    text-align: center;
+    color: #fff; 
+}
+
+.navbar3 .third{
+   
+    color: #fff;
+    background-color: #fed136;
+    margin: 16px 25rem;
+    width: 22%;
+    display: block;
+    padding: 20px 50px;
+    font-size: 16px;
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
+
+
+.navbar3{
+    padding: 15rem;
+    font-size: 34px;
+    text-align: center;
+}
+
+
+.services{
+    padding: 40px;
+}
+.services .service-top{
+
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.services .service-bottom{
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.services .service-bottom .box{
+    padding-top: 10rem;
+   
+    width: 10%;
+    float: left;
+    margin-left: 246px;
+}
+
+
+
+.services .service-bottom .box .box-top img{
+    width: 100%;
+    border-radius: 100%;
+}
+
+
+.services .service-bottom .box .box-bottom{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.services .service-bottom .box .box-bottom h3{
+    padding-bottom: 15px;
+}
+
+
+
+.portfolio{
+    padding: 40px;
+ 
+    margin-block-start: 29rem;
+}
+
+.portfolio .portfolio-top {
+    text-align: center;
+    margin-block-start: 10px;
+    
+    
+}
+
+
+.portfolio .portfolio-bottom .box{
+    
+    padding-top: 5rem;
+    width: 24%;
+    float: left;
+    margin-left: 90px;
+}
+
+.portfolio .portfolio-bottom .box-bottom{
+    text-align: center;
+}
+
+
+.portfolio .portfolio-bottom .box .box-top img{
+    width: 100%;
+
+}
+
+
+
+
+.our-team{
+    padding: 40px;
+    margin-block-start: 29rem;
+}
+
+
+
+.our-team .team-top {
+    text-align: center;
+    margin-block-start: 23rem;
+    
+    
+}
+
+
+.our-team .team-bottom .box{
+    padding-top: 5rem;
+    width: 10%;
+    float: left;
+    margin-left: 236px;
+}
+
+.our-team .team-bottom .box .icon .face{
+    width: 146%;
+    margin: -70px 129px 63px -181px;
+}
+
+.our-team .team-bottom .box .icon .linke{
+    width: 146%;
+    margin: -70px 129px 63px -180px
+}
+.our-team .team-bottom .box .icon .twit{
+    width: 146%;
+    margin: -70px 129px 63px -152px;
+}
+
+.our-team .team-bottom .box .icon{
+    padding-top: 5rem;
+    width: 10%;
+    float: left;
+    margin-left: 236px;
+}
+
+.our-team .team-bottom .box-bottom{
+    text-align: center;
+}
+
+
+.our-team .team-bottom .box .box-top img{
+    width: 100%;
+    border-radius: 100%;
+
+}
+
+.our-team .team-finish p{
+
+    margin-block-start: 19rem;
+    text-align: center;
+    padding-block-start: 63px;
+}
+
+.sites{
+
+    margin: 1rem 2rem 11rem 2rem;
+}
+
+
+.sites .box{
+
+    padding-top: 5rem;
+    width: 10%;
+    float: left;
+    margin-left: 176px;
+}
+
+.sites .box .microsoft{
+    padding: 13px 0;
+
+}
+
+.sites .box .facebook{
+    padding: 7px 0;
+} 
+
+
+.contacts .top{
+   
+    margin-block-start: 14%;
+    text-align: center;
+}
+
+.contact{
+    background-color: #212529;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/map-image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.contact .top1{
+    text-align: center;
+    padding: 11rem 0;
+    font-size: 20px;
+    color: #fff;
+}
+.contact .body{
+    text-align: center;
+    padding-bottom: 3rem;
+    outline: none;
+}
+.contact .input1{
+    width: 3rem;
+    float: left;
+    padding-left: 35%;
+}
+.contact .input2{
+    padding-right: 20% ;
+    font-size: 2rem;
+}
+.i1{
+    height: 30px;
+    width: 15rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+.i2{
+    height: 30px;
+    width: 15rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
+.i3{
+    height: 30px;
+    width: 15rem;
+    margin-bottom: 1rem;    
+    border-radius: 5px;
+}
+.i4{
+    height: 10rem;
+    width: 15rem;
+    margin-bottom: 1rem;    
+    margin-left: 2rem;
+    border-radius: 5px;
+}
+.contact .btn{
+    color: #fff;
+    background-color: #ffc800;
+    border-color: #ffc800;
+    cursor: pointer;    
+    pointer-events: none;
+    opacity: 0.85;
+    font-size: 1.125rem;
+    font-weight: 700;
+    padding: 1.25rem 2.5rem;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
